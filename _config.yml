@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Rens Reeskamp
 description: This is a test page
 logo: Pasfoto.JPG
+show_downloads: true
